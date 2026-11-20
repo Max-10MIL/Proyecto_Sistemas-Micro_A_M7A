@@ -1,8 +1,8 @@
 
 
-class Inicio1()
-def __init__ main(self):
-    pass
+class Inicio1:
+    def __init__ main(self):
+        pass
 
 
 def main():
